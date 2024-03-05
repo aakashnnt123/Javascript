@@ -2,15 +2,15 @@ console.log("HYY AAKASH")
 
 // VARIABLES......
 
-// const accountID=144553
-// let accountEmail="aakash123@gnail.com"
-// var accountpassward ="12345"
-// CITY="jaipur"
-// let accountstate;
+const accountID=144553
+let accountEmail="aakash123@gnail.com"
+var accountpassward ="12345"
+CITY="jaipur"
+let accountstate ;
 
-// console.log(accountID)
+console.log(accountID)
 
-// console.table([accountID,accountEmail,accountpassward,accountstate])
+console.table([accountID,accountEmail,accountpassward,accountstate,CITY])
 
 //DATA TYPES.........
 
