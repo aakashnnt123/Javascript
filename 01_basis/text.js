@@ -1,22 +1,27 @@
-console.log("HYY AAKASH")
+// console.log("HYY AAKASH")
 
 // VARIABLES......
 
-const accountID=144553
-let accountEmail="aakash123@gnail.com"
-var accountpassward ="12345"
-CITY="jaipur"
-let accountstate ;
+// const accountID=144553
+// let accountEmail="aakash123@gnail.com"
+// var accountpassward ="12345"
+// CITY="jaipur"
+// let accountstate ;
 
-console.log(accountID)
+// console.log(accountID)
 
-console.table([accountID,accountEmail,accountpassward,accountstate,CITY])
+// console.table([accountID,accountEmail,accountpassward,accountstate,CITY])
+
+
+  /*prefer not to use var 
+  because of issue in block scope and funcational scope  */
+
 
 //DATA TYPES.........
 
 // let name="aakash"
 // let age=18
-// let isloggedin=false
+// let isloggedin=false 
 
 
 //number=2 to power 53
@@ -29,9 +34,9 @@ console.table([accountID,accountEmail,accountpassward,accountstate,CITY])
 
 //object
 
-// console.log(typeof age)
-// console.log(typeof null)
-// console.log(typeof undefined)
+// console.log(typeof age)--//output-number
+// console.log(typeof null) --//output-object
+// console.log(typeof undefined)--//output-undefined
 
 //CONVERSION OPERATIONS........\
 
