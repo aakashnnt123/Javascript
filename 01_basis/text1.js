@@ -44,9 +44,9 @@ SRTING,NUMBER,BOOLEAN,NULL UNDEFINED,SYMBOL.BIGINT..*/
 
 // console.log(myFunction()); 
 
-console.log(typeof BigInt);
-console.log(typeof myFunction);
-console.log(typeof null);
+// console.log(typeof BigInt);
+// console.log(typeof myFunction);
+// console.log(typeof null);
 
 //=====-------------------===============
 
@@ -56,7 +56,7 @@ console.log(typeof null);
 // let myYouTube="aakashcoding"
 // let anothername=myYouTube
 
-// anothername="chai aur code"
+//  anothername="chai aur code"
 
 
 // console.log(anothername)
@@ -64,7 +64,7 @@ console.log(typeof null);
 
 
 // let user ={
-//     email:"user@gnail.com",
+//     email:"user@gmail.com",
 //     upi:"87386356",
 // }
 //  let usertwo=user
@@ -80,11 +80,11 @@ console.log(typeof null);
 // const name="Aakash"
 // const repocount=50
 
-// console.log(name+" "+repocount+"value")
+// console.log(name +" "+repocount+" "+"value") //outdated method
 
 // console.log(`hello my name is ${name} and my repo count is ${repocount}`)
 
-// const gamename = new String('aakashnnt')
+// const gamename = new String('aakashnnt-fc') 
 
 // console.log(gamename[0]);
 
@@ -94,12 +94,12 @@ console.log(typeof null);
 // console.log(gamename.toUpperCase());
 // console.log(gamename.charAt(2));
 // console.log(gamename.indexOf('a'));
-// console.log(gamename.substring(0,4));
-// console.log(gamename.slice(1,4));
+// console.log(gamename.substring(0,4)); // (--negative value does't accepted)
+// console.log(gamename.slice(1,4));   // (--negative value accepted)
 
 // const newStringOne="   aakash    "
 // console.log(newStringOne);
-// console.log(newStringOne.trim());
+// console.log(newStringOne.trim());  
 
 
 // const url = "http://aakash.com/aakash%20sharma";
@@ -107,7 +107,7 @@ console.log(typeof null);
 // console.log(url.replace('%20','-'))
 // console.log(url.includes('aakash'))
 
-// console.log(gamename.split('-'))
+// console.log(gamename.split('-'));
 
 
 
