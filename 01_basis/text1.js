@@ -92,6 +92,8 @@ SRTING,NUMBER,BOOLEAN,NULL UNDEFINED,SYMBOL.BIGINT..*/
 
 // console.log(gamename.length)
 // console.log(gamename.toUpperCase());
+// console.log(gamename)
+
 // console.log(gamename.charAt(2));
 // console.log(gamename.indexOf('a'));
 // console.log(gamename.substring(0,4)); // (--negative value does't accepted)
