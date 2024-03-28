@@ -53,9 +53,9 @@ const all_new_heros =[...marvel_heros,...dc_heros]
 
 // console.log(real_another_array)
 // // 
-// console.log(Array.isArray("Aakash"))
-// console.log(Array.from("Aakash"))
-// console.log(Array.from({name:"Aakash"})) //interesting
+console.log(Array.isArray("Aakash"))
+console.log(Array.from("Aakash"))
+console.log(Array.from({name:"Aakash"})) //interesting
 
 
 let score1=100

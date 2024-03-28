@@ -34,7 +34,7 @@ const obj2 = {
 // const obj3=Object.assign(obj1,obj2)
 const obj3={...obj1,...obj2}
 
-// console.log(obj3)
+console.log(obj3)
 
 const users =[
 {
@@ -74,15 +74,17 @@ const course ={
     price:"999",
     courseinstructor:"hitesh"
 }
-
+ 
 // console.log(course.courseinstructor)
 
-// const {courseinstructor} = course
-// console.log(courseinstructor)
-
+const {courseinstructor} = course
+console.log(courseinstructor)
+const {price} = course
+console.log(price)
 const {courseinstructor:instructor} = course
-
 console.log(instructor)
+
+
 
 
 
