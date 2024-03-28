@@ -107,4 +107,7 @@ console.log(jsuser.greeting);
 jsuser.greeting2=function(){
     console.log(`hello js user ${this.fullname}`);
 }
-//  
+
+console.log(jsuser.greeting2());
+
+
