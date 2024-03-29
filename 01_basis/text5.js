@@ -9,7 +9,7 @@ function saymyname(){
 // function addtwonum(num1,num2){
 //     num3=num1+num2;
 //     console.log(num3)
-
+  
 // }
 function addtwonum(num1,num2){
   let result = num1 + num2
@@ -43,7 +43,13 @@ const user={
 function handleobject(anyobject){
     console.log(`username is ${anyobject.username} and price is ${anyobject.price}`)
 }
-handleobject(user)
+// handleobject(user)
+
+// handleobject({
+//     username:"sam",
+//     price:399
+// })
+
 
 const mynewarray=[200,400,600,100]
 
@@ -52,5 +58,6 @@ function returnsecondvalue(getArray){
 }
 
 console.log(returnsecondvalue(mynewarray))
+console.log(returnsecondvalue([200,400,600,100]))
 
  
