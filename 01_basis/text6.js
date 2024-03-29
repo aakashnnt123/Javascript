@@ -59,7 +59,7 @@ function chai(){
     let username="aakash"
     console.log(this);
 }
-// chai()
+//  this function only use/work in object its not work in function and shows undefined in output
 
 
 function js() {
