@@ -97,9 +97,9 @@ const self = () => {
 
 // console.log(addTwo(3,7))
 
-// const addTwo = (num1,num2) => ({username:"Aakash"})
+const addTwo = (num1,num2) => ({username:"Aakash"})
 
-// console.log(addTwo(3,7))
+console.log(addTwo(3,7));
 
 // IMMEDIATELY INVOKED FUNCTION EXPRESSIONS(IIFE)
 
