@@ -90,3 +90,4 @@ const shoppingcart =[
 
 const totalbill = shoppingcart.reduce((acc , items) => acc+items.price,0)
 console.log(totalbill)
+
